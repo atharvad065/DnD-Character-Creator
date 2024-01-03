@@ -34,7 +34,7 @@ Welcome to the DnD Character Creation Portal! This project aims to provide a use
    - Option to export character data for use in other tools or platforms.
 
 ## Access the Portal:
-   Open your web browser and go to `https://warhawk02.github.io/DnD-Character-Creator/` to access the portal.
+   Open your web browser and go to `https://atharvad065.github.io/DnD-Character-Creator/` to access the portal.
 
 
 ## License
